@@ -81,7 +81,7 @@
     "ast-metadata-inferer": "^0.4.0",
     "browserslist": "^4.16.0",
     "caniuse-lite": "^1.0.30001170",
-    "core-js": "^3.8.1",
+    "core-js": "^3.13.1",
     "find-up": "^4.1.0",
     "lodash.memoize": "4.1.2",
     "semver": "7.3.4"
